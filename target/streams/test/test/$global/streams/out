@@ -1,0 +1,14 @@
+[0m[[0mdebug[0m] [0mRunning TaskDef(P05Spec, org.scalatest.tools.Framework$$anon$1@5954cc40, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(P03Spec, org.scalatest.tools.Framework$$anon$1@5954cc40, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(P01Spec, org.scalatest.tools.Framework$$anon$1@5954cc40, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(P06Spec, org.scalatest.tools.Framework$$anon$1@5954cc40, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[36mRun completed in 286 milliseconds.[0m[0m
+[0m[[0minfo[0m] [0m[36mTotal number of tests run: 6[0m[0m
+[0m[[0minfo[0m] [0m[36mSuites: completed 4, aborted 0[0m[0m
+[0m[[0minfo[0m] [0m[36mTests: succeeded 6, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0minfo[0m] [0m[32mAll tests passed.[0m[0m
+[0m[[0mdebug[0m] [0mPassed tests:[0m
+[0m[[0mdebug[0m] [0m	P03Spec[0m
+[0m[[0mdebug[0m] [0m	P01Spec[0m
+[0m[[0mdebug[0m] [0m	P05Spec[0m
+[0m[[0mdebug[0m] [0m	P06Spec[0m
